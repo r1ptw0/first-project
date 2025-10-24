@@ -25,7 +25,7 @@ This project is a "Hello World" for MkDocs and GitHub Pages, showcasing:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/first-project.git
+git clone https://github.com/r1ptw0/first-project.git
 cd first-project
 ```
 
@@ -69,7 +69,7 @@ This repository is configured with GitHub Actions for automatic deployment:
 
 1. Push changes to the `main` branch
 2. GitHub Actions will automatically build and deploy to GitHub Pages
-3. Your site will be available at `https://yourusername.github.io/first-project`
+3. Your site will be available at `https://r1ptw0.github.io/first-project`
 
 ### First-Time Setup
 
@@ -115,7 +115,7 @@ first-project/
 Edit `mkdocs.yml` to customize:
 
 - Site name and description
-- Repository links (replace `yourusername/first-project`)
+- Repository links (replace `r1ptw0/first-project`)
 - Theme colors
 - Navigation structure
 

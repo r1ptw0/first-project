@@ -1,11 +1,11 @@
 site_name: My First MkDocs Site
 site_description: A sample MkDocs site deployed to GitHub Pages
-site_author: Your Name
-site_url: https://yourusername.github.io/first-project
+site_author: raffi
+site_url: https://r1ptw0.github.io/first-project
 
 # Repository
-repo_name: yourusername/first-project
-repo_url: https://github.com/yourusername/first-project
+repo_name: r1ptw0/first-project
+repo_url: https://github.com/r1ptw0/first-project
 
 # Theme configuration
 theme:
