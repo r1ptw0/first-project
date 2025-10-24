@@ -1,6 +1,14 @@
 # MkDocs build output
 site/
 
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
 # Python
 __pycache__/
 *.py[cod]
